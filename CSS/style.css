@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("desktop-wallpaper-toji-fushiguro.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+nav{
+    font-family: Playfair Display;
+    color: gray;
+    padding: 15px;
+    margin-left: 25px;
+}
+.r{
+    color: black;               
+}
+.t{
+    color: white;
+}
+.l{
+    color: black;
+}
+.k{
+    color: white;
+}
+h1,ul,li{
+    display: inline-block;
+    padding: 0px;
+}
+a button{
+    font-family: Poppins;
+    display: inline-block;
+    border-radius: 24px;
+    width: 66px;
+    height: 50px;
+}    
+ul{
+    margin-left: 35%;
+}
+h1{
+    color: black;
+}
+li:hover{
+    color:black;
+    cursor:pointer;
+}
+.q{
+    width: 290px;
+    max-width: 450px;
+    padding-left:458px;
+    padding:15px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.w{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+.w:hover{
+    color: black;
+    background-color: grey;
+}
+.z{
+    font-family: Playfair Display;
+    margin-left: 40px;
+    font-size: 60px;
+    display: inline-block;
+}
+.x{
+    font-family: Poppins;
+    margin-left: 40px;
+    font-size: 70px;
+    display: inline-block;
+}
+.c{
+    font-family: Playfair Display;
+    margin-left:40px;
+    font-size: 50px;
+    display: inline-block;
+}
+.v{
+    color: white;
+    font-family: Playfair Display;
+    font-size: 60px;
+    display: inline-block;
+}
+.b{
+    color: white;
+    font-family: Poppins;
+    font-size: 70px;
+    display: inline-block;
+}
+.n{
+    font-family: Poppins;
+    font-size: 70px;
+    display: inline-block;
+
+}
+.m{
+    color: rgb(240, 238, 238);
+    font-family: Playfair Display;
+    font-size: 50px;
+    display: inline-block;
+}
+p{
+    font-family: Playfair Display;
+    margin-left: 40px;
+    font-size: 20px;
+    color: rgb(230, 224, 207);
+}
+.form{
+    width: 320px;
+    height: 330px;
+    background:linear-gradient( to top,rgba(0,0,0,0.8)50px,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 170px;
+    left: 870px;
+    border-radius: 30px;
+    padding: 25px;
+}
+.form h2{
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    margin: 2px;
+    width: 265px;
+    height: 50px;
+    padding: 10px;
+}
+.form input{
+    background: transparent;
+    color: white;
+    font-size: 22px;
+    font-family:  Playfair Display;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin: 2px;
+    width: 265px;
+    height: 50px;
+    padding: 10px;
+}
+.form button{
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-size: 23px;
+    font-family:  Playfair Display;
+    border-radius: 30px;
+    margin: 2px;
+    width: 265px;
+    height: 50px;
+    padding: 10px;
+}
+button:hover{
+    color: black;
+    background-color: grey;
+
+}
+.form button:hover{
+    color: black;
+    background-color: grey;
+    
+}
+.form a:hover{
+    color: black;
+    background-color: grey;
+}
+.form a{
+    color: white;
+    font-size: 25px;
+}
+.h{
+    color: white;
+    align-items: center;
+}
+.o{
+    font-family: Poppins;
+    margin-left: 40px;
+    font-size: 30px;
+    display: inline-block;
+    border-radius: 30px;
+    width: 150px;
+    align-items: center;
+}    
+.ol{
+    font-family: Poppins;
+    margin-left: 40px;
+    font-size: 30px;
+    display: inline-block;
+    border-radius: 30px;
+    width: 150px;
+    height: 55px;
+}
+.kl{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    font-family: Poppins;
+    font-size:23px;
+    display: inline-block;
+    border-radius: 30px;
+    height: 4   0px;
+    width: 150px;
+    
+}
+.kl:hover{
+    background-color: grey;
+    cursor: pointer;
+}
